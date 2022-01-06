@@ -13,4 +13,4 @@ Git is free software.
     git status  工作区状态
     git diff   查看修改内容
 
-4、
+4、这是临时文件，不恢复啦~~~
