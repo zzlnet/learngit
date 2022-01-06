@@ -10,7 +10,12 @@ Git is free software.
     git commit -m <message> 完成
 
 3、
-    git status  工作区状态
-    git diff   查看修改内容
+    git status      工作区状态
+    git diff        查看修改内容
+
+4、
+    git log     显示从最近到最远的提交日志
+    git log --pretty=oneline        显示简明信息
+    
 
 4、这是临时文件，不恢复啦~~~
