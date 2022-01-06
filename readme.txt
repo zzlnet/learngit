@@ -17,7 +17,11 @@ Git is free software.
     git log     显示从最近到最远的提交日志
     git log --pretty=oneline        显示简明信息
 
+5、
+    git reset --hard HEAD^      返回当前版本
+    git reset --hard <版本号>       返回过去
+    git reflog      要重返未来，查询提交记录
 
-5、~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~
 
+    
+4、这是临时文件，不恢复啦~~~
